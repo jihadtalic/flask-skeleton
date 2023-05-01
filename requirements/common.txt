@@ -1,5 +1,5 @@
 behave==1.2.6
-Flask==1.0.2
+Flask==2.3.2
 Flask-Script==2.0.6
 Flask-SQLAlchemy==2.3.2
 flask-marshmallow==0.10.0
